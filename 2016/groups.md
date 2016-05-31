@@ -19,7 +19,7 @@ permalink: /2016/groups/
 |:-------------|:-------------|:-----|:-----|
 |2|黄建峰||
 |2|宁小东||
-|2|王新灵||
+|2|王新灵||https://github.com/wxlDatamining/assignment
 
 > 天池大数据比赛-阿里音乐流行趋势预测
 
@@ -70,7 +70,7 @@ permalink: /2016/groups/
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|9|黄姗|2120150995|
+|9|黄姗|2120150995|https://github.com/CShuangshan/Homework_1
 |9|靳晓乐|2120151000||9|靳晓乐|2120151000|https://github.com/sherlockjin/dm_homework|
 |9|马骁|2120151022|https://github.com/Marshall0304/DataMiningFirstHomework.git
 
@@ -87,7 +87,7 @@ permalink: /2016/groups/
 |:-------------|:-------------|:-----|:-----|
 |11|王晶|2120151040|
 |11|韩学博|2120150990|
-|11|李凯霞|2120151003|
+|11|李凯霞|2120151003|https://github.com/iamaimb/datamining/tree/master/work1|
 |11|张林|2120151062|
 
 > 菜鸟-需求预测与分仓规划
@@ -102,9 +102,9 @@ permalink: /2016/groups/
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|13|李艳东|2120151006|
-|13|曹文强|2120150977|
-|13|樊荣|2120150982|
+|13|李艳东|2120151006|https://github.com/zimuxin/algaeDataAnalysis|
+|13|曹文强|2120150977|https://github.com/Atlantic8/bitdm2016/tree/master/exercise1|
+|13|樊荣|2120150982|https://github.com/fanrong1992/DataMining|
 |13|张川|2120151059|
 
 
@@ -136,7 +136,7 @@ permalink: /2016/groups/
 |:-------------|:-------------|:-----|:-----|
 |17|王丹|2120151036|https://github.com/DanVane/Seaweed|
 |17|魏林静|2120151045|[作业1Github地址](https://github.com/smallsilent/DM-homework/tree/master/homework1)|
-|17|李克南|2120151004|
+|17|李克南|2120151004|[作业1Github地址](https://github.com/nandily/DMHomework/tree/master/homework1)
 |17|郭一迪|2120150985|
 
 |组号|姓名|学号|作业一|
@@ -170,7 +170,7 @@ permalink: /2016/groups/
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|22|王东树||
+|22|王东树||https://github.com/ghos/hz_Analysis.git|
 |22|谌重喜||
 |22|张宇||
 
@@ -184,7 +184,7 @@ permalink: /2016/groups/
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
 |24|张霖|2120151063|
-|24|杨冰|2120151052|
+|24|杨冰|2120151052| https://github.com/bityangbing/data
 
 > 亚马逊书籍推荐
 
